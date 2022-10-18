@@ -1,0 +1,17 @@
+h1,h2,h3{
+    color: white;
+}
+  .container1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between; 
+}
+
+.left{
+    margin-top: 50px;
+    flex: 50%;
+}
+.right{
+    margin-top: 20px;
+    flex: 50%;
+}
